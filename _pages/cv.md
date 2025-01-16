@@ -11,35 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Finance, University of Hong Kong, 2009
+* M.Phil. in Accounting and Finance, University of Hong Kong, 2004
+* B.A. in Accounting, Fudan University, 2001
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Associate Professor in Finance, Faculty of Business Administration, University of Macau (Sep. 2015 ~ )
+* Assistant Professor in Finance, Faculty of Business Administration, University of Macau (Sep. 2009 to Aug. 2015)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Empirical asset pricing
+  * Short selling
+  * Chinese market
+  * IPO
+  * Financial analysts
 
 Publications
 ======
